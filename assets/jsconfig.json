@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "../../../../../home/jeronimo/.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/michenriksen/hugo-theme-til@v0.6.0/assets/*"
+   ]
+  }
+ }
+}

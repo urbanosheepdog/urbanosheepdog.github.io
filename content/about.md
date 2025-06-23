@@ -8,7 +8,7 @@ categories: ["Company", "About"]
 ---
 
 **Urbano Sheepdog** is a technology-based startup dedicated to developing solutions in **AIoT (Artificial Intelligence of Things)**, **cybersecurity**, and **smart devices** for **agriculture**, **defense**, **governments**, and **smart cities**. Founded as **Urbano Applied Research**, the company evolved into its new identity to reflect its core purpose: to act as a true *sheepdog*, guarding the integrity, sovereignty, and intelligence of systems that connect the physical and digital worlds.
-{. lead}
+{.lead}
 
 ## Mission
 

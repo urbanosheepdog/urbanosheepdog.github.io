@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urbano Sheepdog</title>
+    <link>/pt/</link>
+    <description>Urbano Sheepdog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    
+      
+        <managingEditor>jeroniom@sheepdog.dev
+          
+            (Jeronimo de Rossi Molina)
+          
+        </managingEditor>
+      
+
+      
+    
+
+    
+    
+    <atom:link href="/pt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

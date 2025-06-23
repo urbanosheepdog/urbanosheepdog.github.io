@@ -1,13 +1,25 @@
 ---
-title: What is Urbano Sheepdog?
+title: Cybersecurity for AIoT with description
 date: 2025-06-20
+layout: hextra-home
 ---
 
-![Urbano Sheepdog Hardware Developer](cover.jpg)
+<br>
+<div class="hx:mt-6 hx:mb-6">
+{{< hextra/hero-headline >}}
+  Hardware AIoT and&nbsp;<br class="hx:sm:block hx:hidden" />software with secure enviroment
+{{< /hextra/hero-headline >}}
+</div>
 
-**Urbano Sheepdog** is an AIoT and cybersecurity company dedicated to building resilient, intelligent hardware and software for government, defense, agriculture, and smart city applications. We focus on creating trusted, secure, and impactful technologies that enable digital sovereignty and support critical infrastructure. Our mission is to help organizations harness the power of AI and IoT while safeguarding their data, operations, and communities.
-{.lead}
+<div class="hx:mb-12">
+{{< hextra/hero-subtitle >}}
+  Cybersecurity with discription&nbsp;<br class="hx:sm:block hx:hidden" />for agriculture, defense and government
+{{< /hextra/hero-subtitle >}}
+</div>
+<br>
+<div class="hx:mb-6">
+{{< hextra/hero-button text="Keep touch" link="docs" >}}
+</div>
+</br>
 
-We develop hardware security devices for agriculture, defense and government systems with Raspberry Pi technology and high level security standars, to minimize risk at hard critical situations. 
-
-Feel free to send us a email at [contact@sheepdog.dev](mailto:contact@sheepdog.dev).
+<div class="hx:mt-6"></div>

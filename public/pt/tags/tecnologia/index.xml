@@ -1,0 +1,56 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urbano Sheepdog – Tecnologia</title>
+    <link>http://localhost:1313/pt/tags/tecnologia/</link>
+    <description>Recent content in Tecnologia on Urbano Sheepdog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/pt/tags/tecnologia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Urbano Sheepdog</title>
+      <link>http://localhost:1313/pt/about/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt/about/</guid>
+      <description>
+        
+        
+        &lt;p&gt;A &lt;strong&gt;Urbano Sheepdog&lt;/strong&gt; é uma startup de base tecnológica dedicada ao desenvolvimento de soluções em &lt;strong&gt;AIoT (Inteligência Artificial das Coisas)&lt;/strong&gt;, &lt;strong&gt;cibersegurança&lt;/strong&gt; e &lt;strong&gt;dispositivos inteligentes&lt;/strong&gt; aplicados à &lt;strong&gt;agricultura&lt;/strong&gt;, &lt;strong&gt;defesa&lt;/strong&gt;, &lt;strong&gt;governos&lt;/strong&gt; e &lt;strong&gt;cidades inteligentes&lt;/strong&gt;. Fundada como &lt;strong&gt;Urbano Applied Research&lt;/strong&gt;, a empresa evoluiu para sua nova identidade como expressão de seu propósito: atuar como um verdadeiro &lt;em&gt;sheepdog&lt;/em&gt;, zelando pela integridade, soberania e inteligência dos sistemas que conectam os mundos físico e digital.&lt;/p&gt;
+&lt;h2&gt;Missão&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;missão&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#miss%c3%a3o&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Concebemos e implementamos tecnologias que integram &lt;strong&gt;sensores avançados&lt;/strong&gt;, &lt;strong&gt;computação de borda&lt;/strong&gt;, &lt;strong&gt;inteligência artificial embarcada&lt;/strong&gt; e &lt;strong&gt;infraestrutura resiliente&lt;/strong&gt;, com o objetivo de:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Promover a &lt;strong&gt;soberania e a segurança digital&lt;/strong&gt; no uso de tecnologias conectadas.&lt;/li&gt;
+&lt;li&gt;Viabilizar &lt;strong&gt;automação e monitoramento&lt;/strong&gt; para o agronegócio, com foco em produtividade, sustentabilidade e rastreabilidade.&lt;/li&gt;
+&lt;li&gt;Fornecer &lt;strong&gt;defesa cibernética aplicada&lt;/strong&gt;, com proteção de dispositivos críticos em operações sensíveis.&lt;/li&gt;
+&lt;li&gt;Apoiar a &lt;strong&gt;governança inteligente&lt;/strong&gt;, oferecendo tecnologia para a gestão pública orientada por dados.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Áreas de Atuação&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;áreas-de-atuação&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%c3%a1reas-de-atua%c3%a7%c3%a3o&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Agronegócio&lt;/strong&gt;: desenvolvimento de dispositivos AIoT para monitoramento climático, do solo e dos recursos hídricos; sistemas autônomos de alerta e resposta para pragas e eventos extremos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Defesa e segurança&lt;/strong&gt;: prototipagem de dispositivos autônomos e sistemas embarcados com foco em operações táticas e proteção de infraestrutura crítica.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Governos e cidades inteligentes&lt;/strong&gt;: soluções para coleta e análise de dados urbanos, mobilidade, gestão ambiental e transparência.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cibersegurança em AIoT&lt;/strong&gt;: criação de arquiteturas seguras para dispositivos conectados, com ênfase em criptografia, resiliência a ataques e conformidade regulatória.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Diferenciais&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;diferenciais&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#diferenciais&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Desenvolvimento ponta a ponta&lt;/strong&gt;: do conceito ao protótipo funcional, em ciclos ágeis e iterativos.&lt;/li&gt;
+&lt;li&gt;Compromisso com &lt;strong&gt;tecnologia nacional&lt;/strong&gt; e princípios de &lt;strong&gt;soberania digital&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Foco em soluções de &lt;strong&gt;baixo custo operacional&lt;/strong&gt;, adaptadas à realidade de mercados emergentes e do setor público.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Visão&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;visão&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vis%c3%a3o&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Tornar-se referência na América Latina no desenvolvimento de tecnologias AIoT seguras e soberanas, contribuindo para um futuro em que &lt;strong&gt;tecnologia e estratégia caminhem juntas para o fortalecimento das nações&lt;/strong&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

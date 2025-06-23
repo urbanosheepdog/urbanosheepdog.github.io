@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Urbano Sheepdog</title>
+    <link>http://localhost:1313/categories/About/</link>
+    <description>Recent content in About on Urbano Sheepdog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Jun 2025 16:06:18 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/About/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Urbano Sheepdog</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Urbano Sheepdog&lt;/strong&gt; is a technology-based startup dedicated to developing solutions in &lt;strong&gt;AIoT (Artificial Intelligence of Things)&lt;/strong&gt;, &lt;strong&gt;cybersecurity&lt;/strong&gt;, and &lt;strong&gt;smart devices&lt;/strong&gt; for &lt;strong&gt;agriculture&lt;/strong&gt;, &lt;strong&gt;defense&lt;/strong&gt;, &lt;strong&gt;governments&lt;/strong&gt;, and &lt;strong&gt;smart cities&lt;/strong&gt;. Founded as &lt;strong&gt;Urbano Applied Research&lt;/strong&gt;, the company evolved into its new identity to reflect its core purpose: to act as a true &lt;em&gt;sheepdog&lt;/em&gt;, guarding the integrity, sovereignty, and intelligence of systems that connect the physical and digital worlds.&lt;/p&gt;&#xA;&lt;p&gt;{.lead}&lt;/p&gt;&#xA;&lt;h2 id=&#34;mission&#34;&gt;&#xA;  Mission&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#mission&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;We design and implement technologies that integrate &lt;strong&gt;advanced sensors&lt;/strong&gt;, &lt;strong&gt;edge computing&lt;/strong&gt;, &lt;strong&gt;embedded artificial intelligence&lt;/strong&gt;, and &lt;strong&gt;resilient infrastructure&lt;/strong&gt;, with the goal of:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

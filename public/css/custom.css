@@ -1,0 +1,22 @@
+#TableOfContents ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+#TableOfContents li {
+  margin-left: 0;
+  padding-left: 0;
+}
+#TableOfContents a {
+  display: block;
+  text-align: left;
+  /* Herdar tamanho do tema, mas pode ajustar se quiser */
+}
+#TableOfContents ul ul a {
+  font-size: 0.95em;
+  padding-left: 1em;
+}
+#TableOfContents ul ul ul a {
+  font-size: 0.9em;
+  padding-left: 2em;
+}

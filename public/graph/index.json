@@ -1,15 +1,4 @@
 {
-  "graph": {
-    "/posts/test/": {
-      "in": [],
-      "out": []
-    }
-  },
-  "pages": {
-    "/posts/test/": {
-      "permalink": "/posts/test/",
-      "section": "posts",
-      "title": "What Is Urbano Sheepdog?"
-    }
-  }
+  "graph": {},
+  "pages": {}
 }

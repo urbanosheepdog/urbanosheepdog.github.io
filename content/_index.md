@@ -1,9 +1,9 @@
 ---
 title: What is Urbano Sheepdog?
-date: 2025-06-10
+date: 2025-06-20
 ---
 
-![Raspberry Pi](raspberry_pi.jpg)
+![Urbano Sheepdog Hardware Developer](cover.jpg)
 
 **Urbano Sheepdog** is an AIoT and cybersecurity company dedicated to building resilient, intelligent hardware and software for government, defense, agriculture, and smart city applications. We focus on creating trusted, secure, and impactful technologies that enable digital sovereignty and support critical infrastructure. Our mission is to help organizations harness the power of AI and IoT while safeguarding their data, operations, and communities.
 {.lead}

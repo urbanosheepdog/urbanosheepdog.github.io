@@ -127,7 +127,7 @@ dateFormat = "January 2, 2006"
   enable = true
   displayCopyright = true
   displayPoweredBy = false
-  width = "normal"
+  width = "wide"
 
   [params.search]
   enable = true

@@ -87,17 +87,5 @@
                 hreflang="en"
                 href="http://localhost:1313/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/docs/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/geopolitics_ai/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/test/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/test_note/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
   </url>
 </urlset>

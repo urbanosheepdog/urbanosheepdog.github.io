@@ -25,7 +25,7 @@ layout: hextra-home
 <div class="hx:mt-6"></div>
 
 {{< cards cols="3" >}}
-    {{< card link="/" title="Nós fazemos dispositivos seguros" image="images/cover.jpg" subtitle="Urbano Sheepdog  é uma empresa de tecnologia dedicada em fabricar dispositivos AIoT e de cibersegurança confiáveis" >}}
-    {{< card link="/" title="Dispositivos que você confia" image="images/soldier.jpg" subtitle="Com amplo processo de segurança forense, nossos dispositivos podem operador em qualquer situação mais dura, não importa onde seja" >}}
-    {{< card link="/" title="Projetos customizados para sua operação" image="images/agro.jpg" subtitle="Desenvolvemos soluções AIoT para agricultura, defesa e operações governamentais" >}}
+    {{< card link="/" title="Nós fazemos dispositivos seguros" image="/images/cover.jpg" subtitle="Urbano Sheepdog  é uma empresa de tecnologia dedicada em fabricar dispositivos AIoT e de cibersegurança confiáveis" >}}
+    {{< card link="/" title="Dispositivos que você confia" image="/images/soldier.jpg" subtitle="Com amplo processo de segurança forense, nossos dispositivos podem operador em qualquer situação mais dura, não importa onde seja" >}}
+    {{< card link="/" title="Projetos customizados para sua operação" image="/images/agro.jpg" subtitle="Desenvolvemos soluções AIoT para agricultura, defesa e operações governamentais" >}}
 {{< /cards >}}

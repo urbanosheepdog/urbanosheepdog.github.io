@@ -1,10 +1,31 @@
 ---
-title: Cibersegurança e discrição
-date: 2025-06-20
+title: Cibersegurança para AIoT com discrição
+date: 2025-03-07
+layout: hextra-home
 ---
 
-![Urbano Sheepdog Hardware Developer](cover.pt.jpg)
+<br>
+<div class="hx:mt-6 hx:mb-6">
+{{< hextra/hero-headline >}}
+  Hardware AIoT e&nbsp;<br class="hx:sm:block hx:hidden" />software com segurança ambiental
+{{< /hextra/hero-headline >}}
+</div>
 
-**Urbano Sheepdog**  é uma empresa fabricante de dispositivos AIoT e ciberseguraça dedicada a construir hardware e software resilientes e inteligentes para governos, defesa, agricultura e aplicações de cidades inteligentes. Nosso foco é criar tecnologias confiáveis, seguras e impactantes que possibilitem a soberania digital por meio de uma infraestrutura de apoio para situações críticas.Temos por missão ajudar organizações obter o poder da IA em dispositivos IoT enquanto tem dados, operações e comunidades protegidos.
+<div class="hx:mb-12">
+{{< hextra/hero-subtitle >}}
+  Cibersegurança com discrição&nbsp;<br class="hx:sm:block hx:hidden" />para agricultura, defesa e governos
+{{< /hextra/hero-subtitle >}}
+</div>
+<br>
+<div class="hx:mb-6">
+{{< hextra/hero-button text="Mantenha-se informado" link="docs" >}}
+</div>
+</br>
 
+<div class="hx:mt-6"></div>
 
+{{< cards cols="3" >}}
+    {{< card link="/" title="Nós fazemos dispositivos seguros" image="images/cover.jpg" subtitle="Urbano Sheepdog  é uma empresa de tecnologia dedicada em fabricar dispositivos AIoT e de cibersegurança confiáveis" >}}
+    {{< card link="/" title="Dispositivos que você confia" image="images/soldier.jpg" subtitle="Com amplo processo de segurança forense, nossos dispositivos podem operador em qualquer situação mais dura, não importa onde seja" >}}
+    {{< card link="/" title="Projetos customizados para sua operação" image="images/agro.jpg" subtitle="Desenvolvemos soluções AIoT para agricultura, defesa e operações governamentais" >}}
+{{< /cards >}}

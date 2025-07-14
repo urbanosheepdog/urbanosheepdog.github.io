@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Urbano Sheepdog – AI</title>
-    <link>http://localhost:1313/tags/ai/</link>
-    <description>Recent content in AI on Urbano Sheepdog</description>
+    <title>Urbano Sheepdog – Geopolitics</title>
+    <link>http://localhost:1313/tags/geopolitics/</link>
+    <description>Recent content in Geopolitics on Urbano Sheepdog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/tags/geopolitics/index.xml" rel="self" type="application/rss+xml" />
     
     
       

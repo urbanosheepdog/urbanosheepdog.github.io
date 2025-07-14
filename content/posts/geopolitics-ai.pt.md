@@ -1,5 +1,5 @@
 ---
-title: Geopolitics and AI
+title: "Gepolítica e IA"
 date: 2025-03-07
 authors:
     - name: Jeronimo de Rossi Molin

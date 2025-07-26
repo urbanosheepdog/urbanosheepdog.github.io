@@ -56,12 +56,6 @@ pageRef = "/about"
 weight = 4
 
 [[menu.main]]
-identifier = "manifesto"
-name = "Manifesto"
-pageRef = "/manifesto"
-weight = 5
-
-[[menu.main]]
 name = "Search"
 weight = 6
 
